@@ -38,7 +38,7 @@ Products can be sold normally or as auction. You can specify end date, minimum b
 **Admin Panel**   
 In the admin panel you can create categories, respond to vendor applications, disputes or create news.
 
-# [Installation](https://github.com/nomiac-mobile/nomiac/blob/master/INSTALLATION.md)
+# [Installation](https://github.com/nomiac-mobile/peralta/blob/master/INSTALLATION.md)
 
 # Server requirements
 ```
